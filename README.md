@@ -1,6 +1,6 @@
 # Overview
 
-Code for the [Kaggle Pneumothorax Segmentation Challenge](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation). Our team (APPA) finished as 7th with a [dice score](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/overview/evaluation) of `0.8629`. The following image shows the predictions of our final model. Non pneumothorax X-rays are shown in green. Predicted pneumothoraces are outlined in red.
+Code for the [Kaggle Pneumothorax Segmentation Challenge](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation). Our team finished as 7th with a [dice score](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/overview/evaluation) of `0.8629`. The following image shows the predictions of our final model. Non pneumothorax X-rays are shown in green. Predicted pneumothoraces are outlined in red.
 
 <p align="center"> 
   <img src="assets/overview.jpg">
