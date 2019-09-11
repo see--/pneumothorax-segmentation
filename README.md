@@ -42,6 +42,12 @@ This will produce the weights `Model_00*_f0*/*.pth` and test predictions `Model_
 $ python ensemble_all.py
 ```
 
+# Demo Video
 
+You can find a short overview of our entry on YouTube:
 
-
+<p align="center">
+  <a href="https://youtu.be/fhr25lFClkw">
+      <img src="assets/YT.png">
+  </a>
+</p>
